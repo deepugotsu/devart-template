@@ -2,7 +2,7 @@
 test
 
 ## Authors
-- Insert main author name, surname, github account
+- fdhhyhhghghghg
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
